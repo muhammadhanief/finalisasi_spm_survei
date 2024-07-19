@@ -55,6 +55,7 @@ php artisan migrate
 php artisan db:seed
 ```
 
+Aplikasi ini mungkin saja terdapat pembaruan, untuk lebih lengkapnya silakan kunjungi github.com/muhammadhanief
 Detail selanjutnya silakan diliat di readme.md di dalam folder aplikasi
 
 ## Dokumen
